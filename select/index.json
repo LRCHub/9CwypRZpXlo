@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "隣の君と一緒に",
+  "base_artist": "Anna",
+  "createdAt": "2025-12-15T03:00:56.781642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "隣の君と一緒に - tonarino kimito isshoni",
+      "artist": "Anna",
+      "has_synced": true,
+      "path": "select/01_隣の君と一緒に_-_tonarino_kimito_isshoni_Anna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "隣の君と一緒に",
+      "artist": "Anna",
+      "has_synced": false,
+      "path": "select/pl_01_隣の君と一緒に_Anna.txt"
+    }
+  ]
+}
